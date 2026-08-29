@@ -1,19 +1,60 @@
-<h1 align="center">Hi 👋, I'm Mostafa Mohamed Abdrabo</h1>
-<h3 align="center">Cloud Security Engineer | AWS & SDN Specialist</h3>
+<p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=22C55E&center=false&vCenter=true&width=435&lines=Status%3A+Building+awesome+things..." alt="Typing SVG" /></p>
+
+# Hi there, I'm Mostafa
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mostafa-m-abdrabo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:mostafaabdrabo4900@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Location-Mansoura%2C%20Egypt-00599C?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=F59E0B&center=true&vCenter=true&width=500&lines=Cloud+Security+Engineer;AWS+%26+SDN+Specialist;NetDevOps+Engineer" alt="Typing Header" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### About Me
 
-```yaml
-Name: Mostafa Mohamed Abdrabo
-Role: Cloud Security Engineer & NetDevOps Specialist[cite: 1]
-Education: B.Sc. in Information Technology, Mansoura University (2022-2026)
-Focus Areas: AWS Security Architecture, SDN Security, Infrastructure as Code, Threat Detection[cite: 1]
-Achievements: Solved 30+ Cybersecurity & CTF Network Security Challenges
+**Information Technology Graduate @ Mansoura University**[cite: 1]  
+**Passionate about Cloud & Network Security (AWS, Terraform, Docker, SDN)**[cite: 1]  
+**Currently building automation workflows & scalable cloud security architectures**[cite: 1]  
+**Always curious about CI/CD, SRE, Network Automation, and Infrastructure as Code**[cite: 1]  
+**Certified in Cisco CyberOps & Fortinet Network Security**[cite: 1]  
+
+---
+
+### Tech Stack
+
+#### DevOps & Cloud
+p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+</p>
+
+#### Programming
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+---
+
+### 💬 Quote of the Day
+
+> **"Security is not a product, but a process."**  
+>  
+> _— Bruce Schneier_
+
+---
+
+### Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/mostafa-m-abdrabo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mostafaabdrabo4900@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mostafaabdrabo2022&color=00599c&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
