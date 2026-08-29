@@ -10,18 +10,18 @@
 
 ### About Me
 
-**Information Technology Graduate @ Mansoura University**  
+**Information Technology Graduate @ Mansoura University**[cite: 1]  
 **Passionate about Cloud & Network Security (AWS, Terraform, Docker, SDN)**  
-**Currently building automation workflows & scalable cloud security architectures** 
+**Currently building automation workflows & scalable cloud security architectures**  
 **Always curious about CI/CD, SRE, Network Automation, and Infrastructure as Code**  
-**Certified in Cisco CyberOps & Fortinet Network Security**  
+**Certified in Cisco CyberOps & Fortinet Network Security**[cite: 1]  
 
 ---
 
 ### Tech Stack
 
 #### DevOps & Cloud
-p>
+<p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
@@ -40,11 +40,29 @@ p>
 
 ---
 
+### 📂 Featured Projects
+
+* **[End-to-End NetDevOps: Deploying & Monitoring Scalable Cloud-Native SDN](https://github.com/mostafaabdrabo2022/IT-GP)**  
+  Automated AWS cloud provisioning using **Terraform** (Firewall as Code) and orchestrated SDN topologies with **ContainerLab** and **Open vSwitch**, integrated with **Prometheus & Grafana** for real-time observability[cite: 1].  
+  `Terraform` `Ansible` `AWS` `Open vSwitch` `Prometheus`
+
+* **[Fully Serverless AWS Cloud-Native ATS Platform](https://github.com/mostafaabdrabo2022/Fully-Serverless-AWS-Cloud-Native-ATS-Platform)**  
+  Built a serverless ATS platform on AWS using **VPC, EC2, ALB, Lambda, API Gateway, S3, and DynamoDB**, secured via fine-grained **IAM roles & policies**[cite: 1].  
+  `AWS Lambda` `API Gateway` `DynamoDB` `S3` `IAM`
+
+* **[Secure Real-Time Log Monitoring System](https://github.com/mostafaabdrabo2022/secure-log-monitor)**  
+  Event-driven microservices system for real-time security log parsing and threat detection using **Python, Redis Queue, and Docker Compose**.  
+  `Python` `Redis` `Docker Compose` `Cybersecurity`
+
+* **[Enterprise Network Design & Implementation](https://github.com/mostafaabdrabo2022/Enterprise-Network-Design-Implementation-Using-Cisco-Packet-Tracer)**  
+  Simulated secure enterprise architecture featuring routing/switching protocols, VLANs, ACLs, and secure VPN tunnels using **Cisco Packet Tracer**.  
+  `Cisco` `Routing & Switching` `Network Security` `VPN`
+
+---
+
 ### 💬 Quote of the Day
 
 > **"Security is not a product, but a process."**  
->  
-> _— Bruce Schneier_
 
 ---
 
