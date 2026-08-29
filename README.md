@@ -10,11 +10,11 @@
 
 ### About Me
 
-**Information Technology Graduate @ Mansoura University**[cite: 1]  
-**Passionate about Cloud & Network Security (AWS, Terraform, Docker, SDN)**[cite: 1]  
-**Currently building automation workflows & scalable cloud security architectures**[cite: 1]  
-**Always curious about CI/CD, SRE, Network Automation, and Infrastructure as Code**[cite: 1]  
-**Certified in Cisco CyberOps & Fortinet Network Security**[cite: 1]  
+**Information Technology Graduate @ Mansoura University**  
+**Passionate about Cloud & Network Security (AWS, Terraform, Docker, SDN)**  
+**Currently building automation workflows & scalable cloud security architectures** 
+**Always curious about CI/CD, SRE, Network Automation, and Infrastructure as Code**  
+**Certified in Cisco CyberOps & Fortinet Network Security**  
 
 ---
 
