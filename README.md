@@ -1,6 +1,6 @@
 <p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=22C55E&center=false&vCenter=true&width=435&lines=Status%3A+Building+awesome+things..." alt="Typing SVG" /></p>
 
-# Hi there, I'm Mostafa
+# Hi, I'm Mostafa Abdrabo
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=F59E0B&center=true&vCenter=true&width=500&lines=Cloud+Security+Engineer;AWS+%26+SDN+Specialist;NetDevOps+Engineer" alt="Typing Header" />
@@ -10,11 +10,11 @@
 
 ### About Me
 
-**Information Technology Graduate @ Mansoura University**[cite: 1]  
+**Information Technology Graduate @ Mansoura University**  
 **Passionate about Cloud & Network Security (AWS, Terraform, Docker, SDN)**  
 **Currently building automation workflows & scalable cloud security architectures**  
 **Always curious about CI/CD, SRE, Network Automation, and Infrastructure as Code**  
-**Certified in Cisco CyberOps & Fortinet Network Security**[cite: 1]  
+**Certified in Cisco CyberOps & Fortinet Network Security**  
 
 ---
 
