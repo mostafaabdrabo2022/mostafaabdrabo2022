@@ -42,7 +42,7 @@
 
 ### 📂 Featured Projects
 
-* **[End-to-End NetDevOps: Deploying & Monitoring Scalable Cloud-Native SDN](https://github.com/mostafaabdrabo2022/IT-GP)**  
+* **[End-to-End NetDevOps: Deploying & Monitoring Scalable Cloud-Native SDN]([https://github.com/mostafaabdrabo2022/IT-GP](https://github.com/mostafaabdrabo2022/sdn.git))**  
   Automated AWS cloud provisioning using **Terraform** (Firewall as Code) and orchestrated SDN topologies with **ContainerLab** and **Open vSwitch**, integrated with **Prometheus & Grafana** for real-time observability[cite: 1].  
   `Terraform` `Ansible` `AWS` `Open vSwitch` `Prometheus`
 
