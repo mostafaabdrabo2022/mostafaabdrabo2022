@@ -42,12 +42,12 @@
 
 ### 📂 Featured Projects
 
-* **[End-to-End NetDevOps: Deploying & Monitoring Scalable Cloud-Native SDN]([https://github.com/mostafaabdrabo2022/IT-GP](https://github.com/mostafaabdrabo2022/sdn.git))**  
-  Automated AWS cloud provisioning using **Terraform** (Firewall as Code) and orchestrated SDN topologies with **ContainerLab** and **Open vSwitch**, integrated with **Prometheus & Grafana** for real-time observability[cite: 1].  
+* **[End-to-End NetDevOps: Deploying & Monitoring Scalable Cloud-Native SDN]((https://github.com/mostafaabdrabo2022/sdn.git))**  
+  Automated AWS cloud provisioning using **Terraform** (Firewall as Code) and orchestrated SDN topologies with **ContainerLab** and **Open vSwitch**, integrated with **Prometheus & Grafana** for real-time observability.  
   `Terraform` `Ansible` `AWS` `Open vSwitch` `Prometheus`
 
 * **[Fully Serverless AWS Cloud-Native ATS Platform](https://github.com/mostafaabdrabo2022/Fully-Serverless-AWS-Cloud-Native-ATS-Platform)**  
-  Built a serverless ATS platform on AWS using **VPC, EC2, ALB, Lambda, API Gateway, S3, and DynamoDB**, secured via fine-grained **IAM roles & policies**[cite: 1].  
+  Built a serverless ATS platform on AWS using **VPC, EC2, ALB, Lambda, API Gateway, S3, and DynamoDB**, secured via fine-grained **IAM roles & policies**.  
   `AWS Lambda` `API Gateway` `DynamoDB` `S3` `IAM`
 
 * **[Secure Real-Time Log Monitoring System](https://github.com/mostafaabdrabo2022/secure-log-monitor)**  
